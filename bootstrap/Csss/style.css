@@ -1,0 +1,21 @@
+body{
+	background-image: url("../Images/images.jpg");
+	background-size:cover;
+
+}
+.kala{
+	border: solid blue 3px; 
+}
+.blue{
+	background-color: orange;
+	border:dashed red 3px;
+}
+.roro{
+	background-color: yellow;
+	border:solid red 2px;
+
+}
+.cash{
+	background-color: purple;
+	border:dashed yellow;
+}
